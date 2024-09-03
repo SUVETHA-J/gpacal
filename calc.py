@@ -1,0 +1,11 @@
+print("cloud")
+cloud=int(input())
+print("CNS:")
+cns=int(input())
+print("IS:")
+ins=int(input())
+print("ipr")
+ipr=int(input())
+tgpa=(cloud*3)+(cloud*4)+(cloud*3)+(cloud*3)
+gpa=tgpa/21
+print("GPA",gpa)
